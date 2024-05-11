@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Fulfillment Handling Fee Deduction",
+    "start_date": "2023-07-01",
+    "end_date": "2023-10-01",
+    "short_description": "Created a backend system using Go to calculate and real-time deduct a fulfillment handling fee from the seller for every finished transaction.",
+    "description": "",
+    "category": "Backend",
+    "tags": [
+      "Go",
+      "fee",
+      "deduction",
+      "modular"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": true
+  },
+  {
+    "name": "Survey Qualitative Analysis",
+    "start_date": "2023-02-01",
+    "end_date": "2023-04-01",
+    "short_description": "Built a data pipeline and in-house AI model by using Python, Tensorflow, and Microsoft Azure to group the survey by doing sentiment analysis for every submitted Indonesian comment.",
+    "description": "",
+    "category": "AI",
+    "tags": [
+      "Python",
+      "Tensorflow",
+      "data",
+      "LLMs"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": true
+  },
+  {
+    "name": "Financial Automation Workflow",
+    "start_date": "2022-11-01",
+    "end_date": "2022-12-01",
+    "short_description": "Provided consultation and solutions by using robotic process automation (RPA) to solve financial workflow problems from data collection to payment verification.",
+    "description": "",
+    "category": "Consulting",
+    "tags": [
+      "RPA",
+      "automation",
+      "finance",
+      "workflow"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": true
+  },
+  {
+    "name": "Tax Automation",
+    "start_date": "2022-09-01",
+    "end_date": "2022-11-01",
+    "short_description": "Created a backend system to process tax invoices automatically. The process includes the KYC process, tax calculation, generating tax invoice to 3rd party, and sending the generated tax invoice.",
+    "description": "",
+    "category": "Backend",
+    "tags": [
+      "Go",
+      "tax",
+      "automation",
+      "KYC"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": false
+  },
+  {
+    "name": "Seller Reward Program Disbursement",
+    "start_date": "2022-07-01",
+    "end_date": "2022-08-01",
+    "short_description": "Created a new backend app using Go to handle all the rewards. This project focuses on rewarding sellers based on sales results or merchant growth.",
+    "description": "",
+    "category": "Backend",
+    "tags": [
+      "Go",
+      "reward",
+      "disbursement"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": false
+  },
+  {
+    "name": "Dynamic Commission Charging",
+    "start_date": "2022-05-01",
+    "end_date": "2022-07-01",
+    "short_description": "Created a system using Go that enables commission charging based on the shop type and product category.",
+    "description": "",
+    "category": "Backend",
+    "tags": [
+      "Go",
+      "commission",
+      "deduction"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": false
+  },
+  {
+    "name": "Charge and Payment Email Notification",
+    "start_date": "2021-10-01",
+    "end_date": "2021-11-01",
+    "short_description": "Created a system that can send email notifications, such as invoice, reminder, and payment notifications. Invoice and charge notifications will be processed in batches, and payment notifications will be processed in stream.",
+    "description": "",
+    "category": "Full Stack",
+    "tags": [
+      "Java",
+      "payment",
+      "notification",
+      "automation"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": false
+  },
+  {
+    "name": "Zoom Synchronize",
+    "start_date": "2020-07-01",
+    "end_date": "2020-09-01",
+    "short_description": "Created frontend & backend systems that can generate Zoom meeting links and integrate to another app for online teaching and learning purposes because of the impact of COVID-19.",
+    "description": "",
+    "category": "Full Stack",
+    "tags": [
+      "Java",
+      "Zoom",
+      "generate"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": false
+  },
+  {
+    "name": "Student Payment using Virtual Account",
+    "start_date": "2019-05-01",
+    "end_date": "2019-07-01",
+    "short_description": "Created a middleware by using .NET to integrate bank partner into the internal Java/Oracle PeopleSoft system to provide real-time payment using a virtual account.",
+    "description": "",
+    "category": "Backend",
+    "tags": [
+      ".NET",
+      "Java",
+      "payment",
+      "va"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": true
+  }
+]
