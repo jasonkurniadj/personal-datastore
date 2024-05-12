@@ -214,6 +214,22 @@
   ],
   "certifications": [
     {
+      "name": "Generative AI for Everyone",
+      "issuer": "DeepLearning.AI on Coursera",
+      "issue_date": "2024-05-10",
+      "expiration_date": null,
+      "certificate_url": "https://www.coursera.org/account/accomplishments/certificate/7ERC8G2AMETS",
+      "thumbnail_url": "https://drive.google.com/thumbnail?id=1aCTxNTLElnmgA7umy6NQd-BjH5xQqya0&sz=w1000"
+    },
+    {
+      "name": "Global Business Skills",
+      "issuer": "Hardskills",
+      "issue_date": "2024-04-15",
+      "expiration_date": null,
+      "certificate_url": "https://www.credential.net/d7d43329-bfec-40c6-beca-3fd7f5c85188",
+      "thumbnail_url": "https://drive.google.com/thumbnail?id=190_eFW2pgTRlHHhUf6OIoQZG2peNbSV7&sz=w1000"
+    },
+    {
       "name": "Machine Learning Specialization",
       "issuer": "Stanford University & DeepLearning.AI on Coursera",
       "issue_date": "2024-04-06",
