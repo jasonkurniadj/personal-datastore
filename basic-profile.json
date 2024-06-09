@@ -191,7 +191,7 @@
       "title": "Junior Programmer",
       "start_date": "2019-03-01",
       "end_date": "2020-09-30",
-      "description": "<ul><li>Responsible for the core system, mostly using Java, .NET, and Oracle ERP</li><li>Develop and maintain the frontend and backend of Oracle-based applications</li><li>Perform R&D and conduct PoC (proof-of-concept) for a new solution</li><li>Drive automation, testing, and tooling to improve data quality</li></ul>"
+      "description": "<ul><li>Responsible for the core system, mostly using Java, .NET, and Oracle ERP</li><li>Develop and maintain the frontend and backend of Oracle-based applications</li><li>Perform R&D and conduct proof of concept for a new solution</li><li>Drive automation, testing, and tooling to improve data quality</li></ul>"
     }
   ],
   "education": [
@@ -201,7 +201,7 @@
       "location": "Indonesia",
       "start_date": "2020-09-07",
       "end_date": "2022-09-07",
-      "description": "<ul><li>Master track program, the beginning of master's studies intersect with the preparation of the bachelor's thesis</li><li>GPA: 3.88/4.0</li></ul>"
+      "description": "<ul><li>Master track program, the beginning of master's studies intersect with the preparation of the bachelor's thesis</li><li>Honor: <i>magna cum laude</i></li><li>GPA: 3.88/4.0</li></ul>"
     },
     {
       "degree": "Bachelor of Computer Science",
@@ -288,8 +288,8 @@
   ],
   "voluntaries": [
     {
-      "role": "Machine Learning Instructor",
-      "organization": "Bangkit Academy by Google, GoTo, Traveloka",
+      "role": "Machine Learning Instructor & Advisor",
+      "organization": "Bangkit Academy by Google, GoTo, Tokopedia, Traveloka",
       "url": "https://contributors.bangkit.academy/",
       "start_date": "2024-02-01",
       "end_date": null,
@@ -309,7 +309,7 @@
       "url": "https://id.linkedin.com/company/indonesia-asian-games-2018-organizing-committee-inasgoc-",
       "start_date": "2018-08-01",
       "end_date": "2018-09-09",
-      "description": "<ul><li>Work under <i>Chef de Mission</i> (CdM) assignment </li><li>Facilitates communication</li><li>Provide information, administration, and assistance support</li><li>Assist during team welcoming ceremony (TWC) & opening & closing ceremony (OCC)</li><li>Duties as requested by the NOCs</li></ul>"
+      "description": "<ul><li>Assigned for <a href=\"https://en.wikipedia.org/wiki/Chinese_Taipei\" target=\"_blank\">Chinese Taipei</a> NOC</li><li>Worked under <i>Chef de Mission</i> (CdM) assignment</li><li>Facilitated communication</li><li>Provided information, administration, and assistance support</li><li>Assisted during team welcoming ceremony (TWC) & opening & closing ceremony (OCC)</li><li>Duties as requested by the NOCs</li></ul>"
     }
   ],
   "contacts": [
