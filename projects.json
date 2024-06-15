@@ -1,5 +1,41 @@
 [
   {
+    "name": "Local Language Audio Classification",
+    "start_date": "2024-03-01",
+    "end_date": "2024-05-01",
+    "short_description": "Built a pre-processing process and model to classify local languages in Indonesia, as well as hyperparameter tuning by using Python and TensorFlow.",
+    "description": "",
+    "category": "AI",
+    "tags": [
+      "Python",
+      "TensorFlow",
+      "audio",
+      "language",
+      "tuning"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": false
+  },
+  {
+    "name": "Cost Optimization",
+    "start_date": "2023-09-01",
+    "end_date": "2024-01-01",
+    "short_description": "Analyzed and optimized all business flow, usecases logic, and resources, including cloud instances utilization, libraries, etc. The goal is to reduce cost usage as well as improve performance.",
+    "description": "",
+    "category": "Backend",
+    "tags": [
+      "cost",
+      "optimization",
+      "performance",
+      "business",
+      "cloud"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": false
+  },
+  {
     "name": "Fulfillment Handling Fee Deduction",
     "start_date": "2023-07-01",
     "end_date": "2023-10-01",
@@ -20,12 +56,12 @@
     "name": "Survey Qualitative Analysis",
     "start_date": "2023-02-01",
     "end_date": "2023-04-01",
-    "short_description": "Built a data pipeline and in-house AI model by using Python, Tensorflow, and Microsoft Azure to group the survey by doing sentiment analysis for every submitted Indonesian comment.",
+    "short_description": "Built a data pipeline and in-house AI model by using Python, TensorFlow, and Microsoft Azure to group the survey by doing sentiment analysis for every submitted Indonesian comment.",
     "description": "",
     "category": "AI",
     "tags": [
       "Python",
-      "Tensorflow",
+      "TensorFlow",
       "data",
       "LLMs"
     ],
