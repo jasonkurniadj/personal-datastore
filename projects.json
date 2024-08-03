@@ -105,10 +105,10 @@
   },
   {
     "name": "Seller Reward Program Disbursement",
-    "start_date": "2022-07-01",
+    "start_date": "2022-06-01",
     "end_date": "2022-08-01",
     "short_description": "Created a new backend app using Go to handle all the rewards. This project focuses on rewarding sellers based on sales results or merchant growth.",
-    "description": "",
+    "description": "<p>To incentivise the merchants who perform exceptionally well in key business metrics, we created a <b>Rebate Program</b> to share a certain business target for each merchant based on their historical performance. There are a total of three qualifiers for a seller to qualify for this program:<ol><li>Qualifier #0: Power Merchant Pro -- Seller has to stay with the Power Merchant Pro (PM Pro) shop tier for the whole month.</li><li>Qualifier #1: Basic Eligibility (Business Growth) -- Seller has a business growth target determined by their reputation badge.</li><li>Qualifier #2: Rebate Disbursement Scheme (Business Size or Business Growth) -- Each shop that qualifies for rebate will be given a rebate rate according to business size and growth.</li></ol></p><p>For now, there only be one currency of rebate form, which is TopAds Credit -- the balance that will be used to pay for merchant ads in Tokopedia. TopAds credit will disburse the rebate amount when the sum of the seller's TopAds credit is more than IDR 50k and there will be a flat tax fee that will be deducted from the rebate amount.</p><p>In this project, I need to <b>create a new backend service using Go</b> to handle all the rewards. The rewards will disbursed at the beginning of every month for eligible sellers based on a predetermined calculation. I also need to provide a configuration that is modular enough in case there are any changes in business size and growth calculation. Not only about rebates and configuration, but the service should also provide information on progress so the seller is able to see the target that needs to be archived.</p><p>I began by collecting all requirements, both functional and non-functional requirements. Brainstorming is an essential process since I need to create a modular for business calculation changes in the future. This project has multiple stakeholders, so we need to make sure all stakeholders understand their scope. After that, I helped to create a comprehensive tech plan and also helped in the development and testing phase.</p><p>In the end, the service <b>validates more than 100,000 merchants monthly</b> and <b>disburses to more than 60,000 qualified merchants</b>. The finance team can also easily reconcile the rebate amount per month, including the tax. This project also eventually <b>increased the number of transactions by 20%</b>.</p>",
     "category": "Backend",
     "tags": [
       "Go",
@@ -122,7 +122,7 @@
   {
     "name": "Dynamic Commission Charging",
     "start_date": "2022-05-01",
-    "end_date": "2022-07-01",
+    "end_date": "2022-06-01",
     "short_description": "Created a system using Go that enables commission charging based on the shop type and product category.",
     "description": "",
     "category": "Backend",
