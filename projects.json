@@ -1,5 +1,57 @@
 [
   {
+    "name": "Fee Rule Management",
+    "start_date": "2025-05-01",
+    "end_date": "2025-07-01",
+    "short_description": "Built a global fee rule management system to empower business teams to manage rules independently and introduce proper governance to ensure compliance and accuracy.",
+    "description": "<p>The existing fee rules system lacked flexibility, as any adjustment to fee rates or fee calculation logic required dedicated development and testing from the R&D team. This manual dependency not only consumed significant manpower but also slowed down business responsiveness, especially during new market launches or promotional campaigns. With e-commerce expansion into multiple regions and increasing complexity in merchant and affiliate fee demands, the inability to configure fee rules dynamically had become a bottleneck, reducing operational efficiency and delaying time-to-market.</p><p>I was tasked with <b>designing and implementing a global fee rule management system</b> for the funding domain. The goal was to reduce reliance on R&D for routine fee rule/rate changes, empower business teams to manage rules independently, and introduce proper governance to ensure compliance and accuracy. The new platform needed to support configuration of all rule types and fee rates across all regions, enabling rapid market expansion and standardized operations at scale.</p><p>To achieve this, I </b>designed and implemented a global fee rate rule & rate model</b> that could centralize all rule definitions while allowing dynamic configuration of fee parameters by business teams. The solution supported multiple use cases including new cost items, standard rate adjustments, preferential rate changes, and market-specific conditions. I integrated the system with internal tools, enabling operations teams to configure and maintain rules without developer involvement, while introducing an approval workflow to safeguard accuracy and compliance before deployment. By working closely with regional operations, finance, and compliance stakeholders, I ensured the solution supported diverse business needs across SEA, US, UK, and future new markets. Comprehensive testing and phased rollout validated the system's stability and adaptability.</p><p>The new global configurable fee rule management system transformed fee operations into a scalable, business-driven workflow. It now <b>covers 64% of merchant demands and 39% of affiliate demands</b>, significantly reducing R&D workload for fee adjustments and improving agility for market launches. Business teams can configure rules and rates for all regions through a single platform, accelerating expansion, preventing compliance risks, and ensuring consistent fee governance worldwide. This innovation directly enhanced time-to-market for new business models while maintaining financial accuracy and control.</p>",
+    "category": "Backend",
+    "tags": [
+      "fund",
+      "operation",
+      "rule",
+      "rate",
+      "governance"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": true
+  },
+  {
+    "name": "After-Sale Exchange & Replacement",
+    "start_date": "2024-10-01",
+    "end_date": "2024-12-01",
+    "short_description": "Designed and implemented a customized set of funding center flows for after-sales processes to support exchange & replacement process.",
+    "description": "<p>Before the Tokopedia-TikTok Shop (TTS) integration project, the TTS system in Indonesia and the wider SEA region did not support the after-sales replacement process. This created an inconsistency, as SEA's replacement flow differed from the processes already in place in the US and UK regions. Additionally, TTS lacked an exchange process altogether, which limited flexibility for customers requesting product changes. These gaps made it necessary to introduce new features and ensure regional alignment while maintaining compliance with Tokopedia's requirements and existing TTS operations in other markets.</p><p>I designed and implemented a customized set of funding center flows for after-sales processes to address regional differences and fill missing capabilities. The objectives included creating a new exchange process within TTS, introducing a re-mailing (replacement) process for the SEA region consistent with Tokopedia's integration, and ensuring that the US and UK regions maintained their existing re-mailing processes without disruption. The solution was built to support multiple regional business rules, minimize system conflicts, and deliver a smooth experience for both merchants and customers across diverse markets.</p><p>To support the new exchange and replacement processes, I designed and implemented the required funding flows within the billing, settlement, and statement systems. This included updating refund and re-mailing charge handling, ensuring that partial refunds, additional shipping fees, and product exchanges were correctly reflected in the funding center. I integrated reconciliation and audit mechanisms to give finance and operations teams full visibility into these transactions, reducing the risk of mismatches or delays. I also worked closely with product, compliance, and regional stakeholders to align financial flows with regulatory requirements, while implementing monitoring and phased rollouts to guarantee stability and scalability across high transaction volumes.</p><p>The project successfully delivered a unified after-sales solution across multiple regions while ensuring accurate and compliant financial handling within the funding center. The new exchange and replacement flows were fully supported by updated billing, settlement, and statement logic, which reduced reconciliation errors and improved financial transparency for the operations and finance teams. For SEA, the replacement process was aligned with Tokopedia's integration, while the US and UK retained their existing flows without disruption. From a customer perspective, the improvements provided faster resolution times and more flexible options, while for the business, the funding enhancements streamlined financial operations and established a scalable foundation to support future after-sales growth.</p>",
+    "category": "Backend",
+    "tags": [
+      "integration",
+      "aftersale",
+      "fund",
+      "finance"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": false
+  },
+  {
+    "name": "Logistics MP Integration",
+    "start_date": "2024-10-01",
+    "end_date": "2024-12-01",
+    "short_description": "Directed the design and implementation of enhancements to the funding system's architecture to incorporate logistics MP-specific rules.",
+    "description": "<p>As part of the integration project between Tokopedia and TikTok Shop (TTS), the logistics team introduced a new logistics model that required additional support from the funding process. After the integration, three logistics modes would exist: MP, 4PL, and 3PL. Unlike the other two, the MP (Marketplace) model was exclusive to Tokopedia and introduced a new set of requirements that the existing funding system did not yet support. Since the MP model directly impacted how logistics pricing, agreements, and fund flows were managed, it became critical to extend the funding system to handle this new mode efficiently and in compliance with Tokopedia's business operations.</p><p>I directed the design and implementation of enhancements to the funding system's architecture to incorporate MP-specific rules while maintaining compatibility with existing logistics modes. This required addressing several core aspects:<ol><li>Enabling logistics service providers to set their own shipping prices</li><li>Ensuring Tokopedia handled collection and payment responsibilities as the operating entity</li><li>Accurately reflecting the unique agreement structure where Tokopedia acted as a collection and payment agent</li></ol>A key requirement was to build a reliable fund flow mechanism in which Tokopedia charges sellers for shipping and the funding center processes these logistics funds correctly. The solution had to be robust, compliant, and scalable for high-volume transactions.</p><p>To implement this, I worked on adapting the funding system's architecture to incorporate MP-specific rules while maintaining compatibility with existing logistics modes. I ensuring Tokopedia's role as collector and payer was correctly enforced in the system. I also contributed to building the fund flow process that charges sellers for shipping and routes the payments through the funding center for settlement with logistics providers. To ensure compliance and transparency, I integrated audit trails and reporting features so operations and finance teams could track MP-related fund flows. Additionally, I collaborated with logistics, compliance, and product teams to validate business rules and agreements, ensuring the new model functioned end-to-end without disrupting ongoing operations.</p><p>The extended funding system successfully launched with full support for the MP logistics model, enabling Tokopedia to process shipping transactions under the new arrangement. The solution allowed logistics service providers to set their own prices while ensuring Tokopedia could reliably handle collection and payment on their behalf. By establishing a clear and automated fund flow, the system reduced potential reconciliation issues and eliminated manual work for the operations team. This not only ensured compliance with the new logistics agreements but also provided a scalable foundation to support increasing shipping volumes under the MP model, strengthening Tokopedia's logistics and financial integration within the TTS ecosystem.</p>",
+    "category": "Backend",
+    "tags": [
+      "integration",
+      "logistics",
+      "fund",
+      "finance"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": true
+  }
+  {
     "name": "Disbursement with Scam Validation",
     "start_date": "2024-08-01",
     "end_date": "2024-10-01",
@@ -13,7 +65,7 @@
     ],
     "banner_url": "",
     "media": null,
-    "is_home_display": false
+    "is_home_display": true
   },
   {
     "name": "Local Language Audio Classification",
@@ -118,7 +170,7 @@
     ],
     "banner_url": "",
     "media": null,
-    "is_home_display": true
+    "is_home_display": false
   },
   {
     "name": "Financial Automation Workflow",
@@ -135,7 +187,7 @@
     ],
     "banner_url": "",
     "media": null,
-    "is_home_display": true
+    "is_home_display": false
   },
   {
     "name": "Tax Automation",
@@ -235,6 +287,6 @@
     ],
     "banner_url": "",
     "media": null,
-    "is_home_display": true
+    "is_home_display": false
   }
 ]
