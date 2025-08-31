@@ -298,11 +298,19 @@
   "voluntaries": [
     {
       "role": "Machine Learning Instructor & Advisor",
+      "organization": "Coding Camp powered by DBS Foundation",
+      "url": "https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html",
+      "start_date": "2024-12-01",
+      "end_date": "2025-08-31",
+      "description": "<ul><li>Conducted online instructor-led training (ILT) with approximately 50 university students across Indonesia per session, covering both theory and hands-on materials</li><li>Imparted industrial knowledge of data and machine learning technologies and their implementation</li><li>Facilitated online collaboration and mentoring sessions for capstone projects</li><li>Prioritized critical aspects of machine learning projects, identifying key areas for teams to focus on for maximum impact</li><li>Provided actionable feedback and technical advice to enhance the quality of machine learning models and implementation</li><li>Guided students to achieve global standards and qualifications</li><li>Achieved high participant satisfaction with rating 4.7/5.0 for ILT and 5.0/5.0 for mentoring sessions</li></ul>"
+    },
+    {
+      "role": "Machine Learning Instructor & Advisor",
       "organization": "Bangkit Academy by Google, GoTo, Tokopedia, Traveloka",
       "url": "https://contributors.bangkit.academy/",
       "start_date": "2024-02-01",
-      "end_date": null,
-      "description": "<ul><li>Conducted online instructor-led training (ILT) with approx. 50 university students across Indonesia in each session that consists of theory and hands-on materials</li><li>Impart industrial knowledge of data and machine learning technology and implementation</li><li>Facilitated online collaboration and mentoring sessions for capstone project</li><li>Prioritized critical aspects of machine learning projects, identifying key areas for teams to concentrate on for maximum impact</li><li>Offered actionable feedback and technical advice to enhance the quality of machine learning models and implementation</li><li>Help students reach global standards and qualifications</li></ul>"
+      "end_date": "2025-01-31",
+      "description": "<ul><li>Conducted online instructor-led training (ILT) with approximately 50 university students across Indonesia per session, covering both theory and hands-on materials</li><li>Imparted industrial knowledge of data and machine learning technologies and their implementation</li><li>Facilitated online collaboration and mentoring sessions for capstone projects</li><li>Prioritized critical aspects of machine learning projects, identifying key areas for teams to focus on for maximum impact</li><li>Provided actionable feedback and technical advice to enhance the quality of machine learning models and implementation</li><li>Guided students to achieve global standards and qualifications</li><li>Achieved high participant satisfaction with rating 4.7/5.0 for ILT and 5.0/5.0 for mentoring sessions</li></ul>"
     },
     {
       "role": "Backend Facilitator",
