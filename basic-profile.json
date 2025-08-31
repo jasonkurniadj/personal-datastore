@@ -15,22 +15,22 @@
   "statistics": [
     {
       "name": "Years of Experience",
-      "value": "5+",
+      "value": "6+",
       "icon_class": "fa-briefcase"
     },
     {
       "name": "Projects Completed",
-      "value": "20+",
+      "value": "40+",
       "icon_class": "fa-file-code-o"
     },
     {
       "name": "Satisfied Clients",
-      "value": "10+",
+      "value": "30+",
       "icon_class": "fa-users"
     },
     {
       "name": "Cup of Tea",
-      "value": "25+",
+      "value": "50+",
       "icon_class": "fa-coffee"
     }
   ],
