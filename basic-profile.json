@@ -2,7 +2,7 @@
   "name": "Jason",
   "summary": "An experienced software engineer with a strong track record of developing and delivering products. Constantly seeks innovative solutions to everyday problems in a fast-paced environment. A quick learner and intensely interested in <b>software development</b>, <b>project management</b>, <b>data analysis</b>, and <b>business process analysis</b>. Eager to develop new skills while maximizing critical and analytical skills to make meaningful contributions to the organization.",
   "picture_url": "https://drive.google.com/thumbnail?id=1Z4Zsis9tK1aZSQzA-JjwVct8lBgWSuui&sz=w1000",
-  "cv_url": "https://drive.google.com/file/d/1bqbpE8DujRLkdsGeYP8WeOwExBEGd6Gj/view?usp=sharing",
+  "cv_url": "https://drive.google.com/file/d/1Uwxa2d0FaFPu5b2mylVNk08ML7REopVK/view?usp=sharing",
   "location": "Jakarta, Indonesia",
   "roles": [
     "Software Engineer",
@@ -164,7 +164,7 @@
       "title": "Backend Software Engineer",
       "start_date": "2024-02-01",
       "end_date": null,
-      "description": "<ul><li>Responsible for the design and development of systems in the Global E-Commerce Funding Center domain, including billing, settlement, statement, tax, finance, and other sub-domains</li><li>Participate in the design, development, and construction of Global E-Commerce financial systems and payment technology platforms to build a safe, reliable, stable, and efficient financial system with strong fund security</li><li>Lead multiple projects to support regional business operations and ensuring regulatory compliance across regions, including SEA, EU, UK, US, and LATAM</li><li>Build global operational capabilities for the fee application management, boosting weekly regional expense operations efficiency by up to 80%</li><li>Support implementation of data exchange controls to ensure secure, compliant, and reliable cross-region communication</li></ul>"
+      "description": "<ul><li>Responsible for the design and development of systems in the Global E-Commerce Funding Center domain, including billing, settlement, statement, tax, finance, and other sub-domains</li><li>Participate in the design, development, and construction of Global E-Commerce financial systems and payment technology platforms to build a safe, reliable, stable, and efficient financial system with strong fund security</li><li>Lead multiple projects to support regional business operations and ensuring regulatory compliance across regions, including SEA, EU, UK, US, and LATAM</li><li>Build global operational capabilities for the fee application management, boosting weekly regional expense operations efficiency by up to 80%</li><li>Engineered and maintained a globally compliant tax invoicing, accelerating new 3rd-party vendor onboarding by up to 87%</li><li>Support implementation of data exchange controls to ensure secure, compliant, and reliable cross-region communication</li></ul>"
     },
     {
       "company": "Tokopedia",
@@ -296,6 +296,14 @@
     }
   ],
   "voluntaries": [
+    {
+      "role": "Backend Advisor",
+      "organization": "Asah led by Dicoding",
+      "url": "https://www.dicoding.com/asah",
+      "start_date": "2025-10-01",
+      "end_date": "2026-01-31",
+      "description": "<ul><li>Imparted industrial knowledge of data and machine learning technologies and their implementation</li><li>Facilitated online collaboration and mentoring sessions for capstone projects</li><li>Prioritized critical aspects of machine learning projects, identifying key areas for teams to focus on for maximum impact</li><li>Provided actionable feedback and technical advice to enhance the quality of machine learning models and implementation</li><li>Guided students to achieve global standards and qualifications</li><li>Achieved high participant satisfaction with rating 4.7/5.0</li></ul>"
+    },
     {
       "role": "Machine Learning Instructor & Advisor",
       "organization": "Coding Camp powered by DBS Foundation",
