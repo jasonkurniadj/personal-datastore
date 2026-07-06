@@ -1,5 +1,23 @@
 [
   {
+    "name": "Tax Gateway System Construction",
+    "start_date": "2026-01-01",
+    "end_date": "2026-02-01",
+    "short_description": "Built a scalable tax invoicing backend from the ground up to ensure strict compliance with local tax authorities across SEA, EU, and UK markets.",
+    "description": "<p>As the company has a market across the SEA, EU, and UK, we faced a <b>major challenge with tax compliance</b>. We had to ensure strict compliance with local tax authorities in every region, which required us to integrate with a wide variety of 3rd-party tax vendors across different business units. Because every vendor had different technical requirements, <b>the integration process was highly fragmented</b>.</p><p>The problem was that onboarding a new vendor was incredibly slow and complex, it took us 30-40 person-days per integration. I was tasked with <b>designing and building a scalable backend system from the ground up that would standardize these connections, ensure compliance, and drastically speed up our onboarding time</b>.</p><p>I decided to build the new backend system using Go, focusing heavily on a modular design to make cross-business integration seamless.<ol><li>First, I built core modules to automatically manage the common heavy lifting—like payload construction, rate limiting, error handling, and post-actions.</li><li>Second, to handle the unique rules of each tax authority, I introduced a 'vendor processor' component. This allowed us to isolate the specific business logic for each individual vendor. Whenever we onboarded a new vendor, we just built a new processor that plugged right into the core system without having to rewrite the foundational code.</li><li>Finally, because these 3rd-party vendors have vastly different technical capabilities, I architected the system to support multiple communication schemas, including direct API calls, polling, and webhook callbacks.</li></ol></p><p>The project was a huge success. Not only did the new system ensure strict compliance with local tax authorities globally, but it completely transformed our engineering efficiency. Because of standardized architecture, <b>I streamlined new vendor onboarding and reduced integration time by up to 87%, dropping the effort from 30-40 person-days down to just 5-10 person-days</b>. This drove massive productivity gains for the entire team.</p>",
+    "category": "Backend",
+    "tags": [
+      "tax",
+      "invoice",
+      "vendor",
+      "integration",
+      "compliance"
+    ],
+    "banner_url": "",
+    "media": null,
+    "is_home_display": true
+  },
+  {
     "name": "Fee Rule Management",
     "start_date": "2025-05-01",
     "end_date": "2025-07-01",
@@ -153,7 +171,7 @@
     ],
     "banner_url": "",
     "media": null,
-    "is_home_display": true
+    "is_home_display": false
   },
   {
     "name": "Survey Qualitative Analysis",
